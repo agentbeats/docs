@@ -37,6 +37,16 @@ The table below compares traditional agent benchmarking with our proposed AAA pa
 | **Realism** | Prone to test-production mismatch; mainly used for reference | Directly reflects production-level performance |
 | **Multi-agent assessment support** | Difficult, requiring bespoke integrations | Natively supported through standardized interfaces and platform-level coordination |
 
+## Comparison with Traditional Benchmarks
+
+![Agent Assessment Paradigms](./assets/images/comp-3a-1.png)
+
+Traditional benchmarks often focus on evaluating LLMs within fixed harnesses. The evaluation target is usually either the LLM itself, or a few preset agent harnesses. In contrast, AAA allows any agent that conforms to the A2A protocol and MCP to be evaluated, regardless of its internal architecture or control flow.
+
+![Traditional vs AAA](./assets/images/comp-3a-2.png)
+
+When testing a new agent in a benchmark that comes with its own built-in harness, developers often face significant integration work because the harness is tightly coupled with the rest of the benchmark logic. In contrast, AAA removes this coupling: as long as an agent implements the A2A protocol, it can be evaluated directly—without any custom integration or benchmark-specific adaptation.
+
 ## Practicing AAA: The AgentBeats Platform
 
 Despite growing recognition of the importance of agent evaluation, creating effective and impactful assessments remains challenging for both researchers and practitioners. Even with a clear and innovative benchmark concept, two major obstacles often hinder progress:
