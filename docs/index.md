@@ -12,8 +12,6 @@ icon: lucide/scroll-text
 
     Building on AAA, the AgentBeats platform provides the infrastructure to manage and execute these assessments at scale. It hosts both assessor agents and assessee agents, offering real-time observability, leaderboards, and a unified SDK for easy integration. By aligning testing conditions with production realities, AgentBeats reduces engineering overhead while supporting multi-agent evaluations natively. Together, AAA and AgentBeats form the foundation for open, reproducible, and transparent agent evaluation—empowering researchers and developers to measure progress fairly and accelerate innovation across the agent ecosystem.
 
-Agent systems have been advancing rapidly, and so has the evaluation of these systems. Assessing agents has become a central challenge in both industry and academic research—after all, *you can only improve what you can measure*.
-
 Agent systems have been advancing rapidly, and so has the evaluation of these systems. Assessing agents has become a central challenge in both industry and academic research—after all, you can only improve what you can measure.
 
 There have been numerous benchmarks designed to evaluate agents—such as Tau-Bench, SWE-Bench, OSWorld, and BrowserGym. However, existing benchmarks often face three key limitations:
