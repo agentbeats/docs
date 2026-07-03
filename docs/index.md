@@ -87,3 +87,19 @@ If you are preparing a submission, Blog 2 and Blog 3 are the fastest path to han
 3. [Blog 2: Agentify the Agent Assessment](./Blogs/blog-2.md)
 4. [Blog 3: Integrate Your A2A Agents with AgentBeats in Three Steps](./Blogs/blog-3.md)
 
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+    <a href="https://www.berkeley.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/330px-Seal_of_University_of_California%2C_Berkeley.svg.png" alt="UC Berkeley" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.ucsc.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_University_of_California_1868_UCSC.svg/330px-The_University_of_California_1868_UCSC.svg.png" alt="UC Santa Cruz" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.epfl.ch/" target="_blank" rel="noopener noreferrer"><img src="https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg" alt="EPFL" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://rdi.berkeley.edu/" target="_blank" rel="noopener noreferrer" style="display:flex; width:140px; height:72px; align-items:center; justify-content:center; text-decoration:none; color:#1f2937; font-weight:700; font-size:17px; letter-spacing:0.2px;">RDI Foundation</a>
+    <a href="https://research.ibm.com/" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/IBM_logo.svg" alt="IBM Research" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mila_Research_Institute_Logo.png/330px-Mila_Research_Institute_Logo.png" alt="Mila" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.mcgill.ca/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/330px-McGill_University_CoA.svg.png" alt="McGill University" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.servicenow.com/research" target="_blank" rel="noopener noreferrer"><img src="https://www.servicenow.com/research/media/logo.svg" alt="ServiceNow Research" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.cmu.edu/" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Mellon_University_wordmark.svg" alt="Carnegie Mellon University" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.brookings.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brookings_logo_small.svg/960px-Brookings_logo_small.svg.png?_=20190425175650" alt="The Brookings Institution" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.osu.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Ohio_State_University_seal.svg/330px-Ohio_State_University_seal.svg.png" alt="The Ohio State University" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://mercor.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.mercor.com/favicon.ico" alt="Mercor" style="width:140px; height:72px; object-fit:contain;"></a>
+    <a href="https://www.ucsb.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/UC_Santa_Barbara_Seal.png/330px-UC_Santa_Barbara_Seal.png" alt="UC Santa Barbara" style="width:140px; height:72px; object-fit:contain;"></a>
+</div>
+
