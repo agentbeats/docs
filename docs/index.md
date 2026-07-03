@@ -87,6 +87,8 @@ If you are preparing a submission, Blog 2 and Blog 3 are the fastest path to han
 3. [Blog 2: Agentify the Agent Assessment](./Blogs/blog-2.md)
 4. [Blog 3: Integrate Your A2A Agents with AgentBeats in Three Steps](./Blogs/blog-3.md)
 
+---
+
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
     <a href="https://www.berkeley.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/330px-Seal_of_University_of_California%2C_Berkeley.svg.png" alt="UC Berkeley" style="width:140px; height:72px; object-fit:contain;"></a>
     <a href="https://www.ucsc.edu/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_University_of_California_1868_UCSC.svg/330px-The_University_of_California_1868_UCSC.svg.png" alt="UC Santa Cruz" style="width:140px; height:72px; object-fit:contain;"></a>
